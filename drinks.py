@@ -1,5 +1,5 @@
 recepies ={
-    "expresso" : {
+    "espresso" : {
     "water":50,
     "coffe":18,
     
@@ -19,7 +19,7 @@ recepies ={
 }
 
 price ={
-    "expresso" :{"money": 2.5},
+    "espresso" :{"money": 2.5},
     "latte":{
         "money":3.0
     },
