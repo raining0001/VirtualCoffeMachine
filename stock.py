@@ -2,7 +2,7 @@ report = {
     "resources":{
     "water":500,
     "milk":250,
-    "coffe":100
+    "coffee":100
     },
     "money":{
         "penny":10,
